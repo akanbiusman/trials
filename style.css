@@ -45,15 +45,12 @@ a:active{
 }
 
 li{
+    padding: 10px;
+    text-decoration: none;
     padding-right: 10px;
     display: inline-block;
     color: #1c2547;
     font-size: 14px;
-}
-
-a{
-    padding: 10px;
-    text-decoration: none;
 }
 
 #contents{
